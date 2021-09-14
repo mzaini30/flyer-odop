@@ -18,8 +18,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="heru.svg"
    inkscape:export-filename="/mnt/C48455A884559E2C/kerjaan/flyer-odop/heru.png"
-   inkscape:export-xdpi="53.333332"
-   inkscape:export-ydpi="53.333332">
+   inkscape:export-xdpi="53.330002"
+   inkscape:export-ydpi="53.330002">
   <defs
      id="defs2">
     <clipPath
@@ -51,7 +51,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25046795"
-     inkscape:cx="-1189.9491"
+     inkscape:cx="-1435.4668"
      inkscape:cy="698.24595"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -165,5 +165,26 @@
        width="317.5"
        clip-path="url(#clipPath58)"
        transform="matrix(0.57734109,0,0,0.57734109,-182.12982,13.078296)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="65.724617"
+       y="275.92792"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="65.724617"
+         y="275.92792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Slabo 27px';-inkscape-font-specification:'Slabo 27px, ';text-align:end;text-anchor:end;stroke-width:0.26458332">15 September 2021</tspan><tspan
+         sodipodi:role="line"
+         x="65.724617"
+         y="289.18027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Slabo 27px';-inkscape-font-specification:'Slabo 27px, ';text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan36">20.00 WIB</tspan><tspan
+         sodipodi:role="line"
+         x="65.724617"
+         y="302.43262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Slabo 27px';-inkscape-font-specification:'Slabo 27px, ';text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan38">WAG Grup Besar ODOP</tspan></text>
   </g>
 </svg>
