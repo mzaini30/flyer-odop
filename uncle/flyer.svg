@@ -82,7 +82,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.3943545"
-     inkscape:cx="-651.25371"
+     inkscape:cx="-1025.2827"
      inkscape:cy="646.24518"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -171,7 +171,9 @@
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="67.570305"
        y="269.98621"
-       id="text32"><tspan
+       id="text32"
+       inkscape:export-xdpi="53.330002"
+       inkscape:export-ydpi="53.330002"><tspan
          sodipodi:role="line"
          id="tspan30"
          x="67.570305"
@@ -181,7 +183,7 @@
          x="67.570305"
          y="283.21536"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Slabo 27px';-inkscape-font-specification:'Slabo 27px, ';text-align:end;text-anchor:end;stroke-width:0.26458332"
-         id="tspan36">20s.00 WIB</tspan><tspan
+         id="tspan36">20.00 WIB</tspan><tspan
          sodipodi:role="line"
          x="67.570305"
          y="296.44455"
